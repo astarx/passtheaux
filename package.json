@@ -1,8 +1,11 @@
-  {
-      "name": "passtheaux",
-      "main": "server.js",
-      "dependencies": {
-          "express": "~4.5.1",
-          "body-parser": "~1.4.2"
-      }
+{
+  "name": "passtheaux",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "cors": "^2.8.1",
+    "express": "~4.5.1",
+    "itunes-api-search": "^1.0.3",
+    "node-rest-client": "^2.0.1"
   }
+}
